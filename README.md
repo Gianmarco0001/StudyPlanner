@@ -17,6 +17,8 @@ You can install them using the following commands:
 
 Run the program with `python3 studyplanner.py` or `py studyplanner.py`
 
+If you are having trouble with Python or don't feel like installing it, you can also run the executable located inside the 'dist' folder. Windows only.
+
 # Usage
 
     1. Clone the repository or download the study_plan.py file.
