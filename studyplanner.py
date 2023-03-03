@@ -179,3 +179,4 @@ exit_button = tk.Button(window, text="Esci", command=window.quit)
 exit_button.pack()
 
 window.mainloop()
+# Coded by Gianmarco Benedetti with ❤️
